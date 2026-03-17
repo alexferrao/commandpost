@@ -1,0 +1,14 @@
+[project]
+name = "commandpost-watcher"
+version = "1.0.0"
+description = "CommandPost Watcher - Remote Claude Code control via Telegram"
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot>=22.0",
+    "fpdf2>=2.7.0",
+    "reportlab>=4.4.6",
+    "python-dotenv>=1.0.0",
+]
+
+[tool.uv]
+dev-dependencies = []

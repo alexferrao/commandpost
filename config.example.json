@@ -1,0 +1,6 @@
+{
+    "output_format": "pdf",
+    "default_project": "my_project",
+    "pdf_threshold": 500,
+    "result_pdf_threshold": 500
+}

@@ -1,0 +1,40 @@
+# Credentials and config
+.env
+config.json
+projects.json
+
+# State and sessions
+state.json
+last_project.txt
+INBOX.md
+
+# Generated responses
+*.pdf
+*.txt
+!README.md
+!CONTRIBUTING.md
+!CHANGELOG.md
+!LAUNCH-CHECKLIST.md
+!*.example.*
+
+# Launch content (private drafts)
+LAUNCH-CONTENT.md
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Test
+test.pdf
